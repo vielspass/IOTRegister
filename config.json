@@ -1,0 +1,5 @@
+{
+    "offline_timeout": 600,
+    "database": "database.db",
+    "table": "items"
+}
